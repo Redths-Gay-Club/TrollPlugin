@@ -1,5 +1,5 @@
 # TrollPlugin
-a simple 1.8 troll plugin
+a simple 1.8 troll spigot plugin
 
 commands:
 - /sudo <player> <message> - make a player say a message
