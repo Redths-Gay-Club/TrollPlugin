@@ -1,0 +1,21 @@
+name: TrollPlugin
+version: 0.1
+author: Redth
+main: me.redth.trollplugin.Main
+
+commands:
+  crash:
+    permission: 'trollplugin.troll'
+  demo:
+    permission: 'trollplugin.troll'
+  earrape:
+    permission: 'trollplugin.troll'
+  fakeop:
+    permission: 'trollplugin.troll'
+  spam:
+    permission: 'trollplugin.troll'
+  sudo:
+    permission: 'trollplugin.troll'
+  kaboom:
+    permission: 'trollplugin.troll'
+
